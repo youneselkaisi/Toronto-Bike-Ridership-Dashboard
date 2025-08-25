@@ -1,7 +1,7 @@
 # Toronto Bike Ridership Dashboard (2024 Q1–Q3)
 
 ## Project Objective  
-The objective of this project is to provide an interactive dashboard for Toronto Bike Share ridership data covering Q1 to Q3 of 2024. It is designed for city planners, transportation analysts, and stakeholders to better understand usage trends, peak times, and rider demographics. These insights help optimize bike distribution, improve infrastructure planning, and enhance user experience.  
+The objective of this project is to provide an interactive PBI dashboard for Toronto Bike Share ridership data covering Q1 to Q3 of 2024. It is designed for city planners, transportation analysts, and stakeholders to better understand usage trends, peak times, and rider demographics. These insights help optimize bike distribution, improve infrastructure planning, and enhance user experience.  
 
 ## Dataset Used  
 [Dataset](https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/2024/) from the City of Toronto Open Data portal  
