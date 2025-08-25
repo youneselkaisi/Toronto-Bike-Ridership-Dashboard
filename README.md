@@ -17,7 +17,7 @@ The objective of this project is to provide an interactive dashboard for Toronto
 - Collected dataset from the City of Toronto Open Data website (over 1M+ rows).  
 - Loaded data into Power Query for extensive cleaning and transformation.  
 - Removed nulls and standardized column names.  
-- Removed outliers in trip duration using the **IQR method**.  
+- Removed outliers in trip duration using the IQR method.  
 - Added calculated columns and standardized date/time formats.  
 - Created interactive visuals in Power BI to highlight ridership KPIs and patterns.  
 
@@ -25,14 +25,14 @@ The objective of this project is to provide an interactive dashboard for Toronto
 [View Dashboard](https://github.com/youneselkaisi/Toronto-Bike-Ridership-Dashboard/blob/main/Bike%20Share%20Dashboard%20screenshot.png)  
 
 ## Project Insights  
-- Total rides from **Q1–Q3 2024: 256.38k**.  
-- Average trip duration: **12.38 minutes**.  
-- **Saturday** is the busiest day of the week for rides.  
-- Trip activity by start hour peaks at **5 PM**, stays steady until midnight, and drops to the lowest at **5 AM**.  
-- **September, July, and August** are the top months (50k, 48k, and 48k rides respectively), while **January** had the lowest ridership (~10k).  
-- Major stations like **Union Station, York St, Bay St, and College St** appear in both top start and end locations.  
-- **Casual riders make up 89%** of users; annual members ride for about **2 minutes less per trip** on average.  
-- Regular bikes dominate usage, while **e-bikes remain unpopular** despite being more expensive.  
+- Total rides from Q1–Q3 2024: 256.38k.  
+- Average trip duration: 12.38 minutes.  
+- Saturday is the busiest day of the week for rides.  
+- Trip activity by start hour peaks at 5 PM, stays steady until midnight, and drops to the lowest at 5 AM.  
+- September, July, and August are the top months (50k, 48k, and 48k rides respectively), while January had the lowest ridership (~10k).  
+- Major stations like Union Station, York St, Bay St, and College St appear in both top start and end locations.  
+- Casual riders make up 89% of users; annual members ride for about 2 minutes less per trip on average.  
+- Regular bikes dominate usage, while e-bikes remain unpopular despite being more expensive.  
 
 ## Conclusion  
 The Toronto Bike Ridership Dashboard reveals strong seasonal and daily patterns in bike share usage. Casual riders dominate overall usage, with weekends and late afternoons being peak times. Summer and early fall months consistently show higher ridership, while winter months lag behind. Stations around downtown hubs such as Union Station remain the busiest. These findings can help the City of Toronto and Bike Share operators optimize station placements, allocate bikes more efficiently, and target initiatives that improve both member engagement and infrastructure planning.  
