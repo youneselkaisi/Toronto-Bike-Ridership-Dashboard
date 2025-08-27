@@ -22,7 +22,8 @@ The objective of this project is to provide an interactive PBI dashboard for Tor
 - Created interactive visuals in Power BI to highlight ridership KPIs and patterns.  
 
 ## Dashboard  
-[View Dashboard](https://github.com/youneselkaisi/Toronto-Bike-Ridership-Dashboard/blob/main/Bike%20Share%20Dashboard%20screenshot.png)  
+<img width="1000" height="663" alt="image" src="https://github.com/user-attachments/assets/d3542eb8-fbbe-4099-b93c-e1a49277eebb" />
+ 
 
 ## Project Insights  
 - Total rides from Q1–Q3 2024: 256.38k.  
